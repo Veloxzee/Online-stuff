@@ -1,0 +1,12 @@
+canvas {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+    height: 90vh;
+    width: 90vh;
+    
+    border: 10px;
+    outline-style: solid;
+    outline-color: black;
+}
